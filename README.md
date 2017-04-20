@@ -1,6 +1,6 @@
 # Assistive-Joystick---For-finite-hand-movement
 
-https://cloud.githubusercontent.com/assets/12135727/25215737/a940f25a-25e2-11e7-895e-f2cabe3c250f.jpg
+<img src="https://github.com/paulbardini/Assistive-Joystick---For-finite-hand-movement/blob/master/img/IMG_20161211_164411.jpg">
 
 THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
 
