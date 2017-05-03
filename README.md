@@ -2,21 +2,21 @@
 
 <img src="https://github.com/paulbardini/Assistive-Joystick---For-finite-hand-movement/blob/master/img/Making/Image00025%20smaller.jpg">
 
-THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
+<h1> THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.</h1>
 
 PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOW ETHIC PROTOCOLS.
 
 
-This device was created for a person with Guillian-Barre syndrome - causing nervous system inflammation and temporary paralysis. 
-As they where being rehabilitated, this device could allow them to interact with a computer.
+<b>This device was created for a person with Guillian-Barre syndrome - causing nervous system inflammation and temporary paralysis. 
+As they where being rehabilitated, this device could allow them to interact with a computer.</b>
 
-The large button on the back of the device allows the user to use the palm for the mouse click. 
-Also the side button are facilitated by squeezing the device.
+<b>The large button on the back of the device allows the user to use the palm for the mouse click. 
+Also the side button are facilitated by squeezing the device.</b>
 
-A new finger rest was designed to replace the existing joystick knob, allowing the two or three fingers to move the joystick. 
-This minimises the fatigue with user.
+<b>A new finger rest was designed to replace the existing joystick knob, allowing the two or three fingers to move the joystick. 
+This minimises the fatigue with user.</b>
 
-Arduino micro controller and stock (very accessible) joystick parts and switches where used for other to replicate the device
+<b>Arduino micro controller and stock (very accessible) joystick parts and switches where used for other to replicate the device</b>
 
 
 THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
