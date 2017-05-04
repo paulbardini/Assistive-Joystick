@@ -2,12 +2,19 @@ Hardware
 
 To Create the Joystick you will require the following materials.
 
-- A 3D Printer - or someone to print this for you 
+Materials
+
 - Arduino Leonardo - requires the mouse emulator
+  - https://www.arduino.cc/en/main/arduinoBoardLeonardo
 - Joystick
 - 3 tactile push buttons
 - hook up cable
+<img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Making/Image00001%20smaller.jpg>
 
+Tools
+
+- A 3D Printer - or someone to print this for you 
+  
 - soldering iron
 - wire cutters
 - Hot glue gun
