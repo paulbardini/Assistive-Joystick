@@ -40,6 +40,10 @@ I have also printed this in PLA and ABS. Concideration when choosing filament; t
 The joystick uses a Arduino Leonardo - this arduino allows for an intergrated USB HID - in other words it acts like a mouse (or keyboard) 
 Attached is 3 tactile buttons and 1 electronic joystick modules. As seen in the picture above.
 
+Below is the Fritzing circuit layout
+
+<img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Fritzing/Assistive%20Joystick_bb.png>
+
 <h2> Step 1</h2>
 
 Solder wire onto the Tactile buttons and tie one side together - this will be the button earth/common connection.
