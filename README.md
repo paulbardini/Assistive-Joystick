@@ -1,3 +1,8 @@
+---
+layout: default
+
+---
+
 # Assistive-Joystick---For-finite-hand-movement
 
 <img src="https://github.com/paulbardini/Assistive-Joystick---For-finite-hand-movement/blob/master/img/Making/Image00025%20smaller.jpg">
