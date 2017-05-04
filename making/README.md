@@ -47,6 +47,60 @@ Solder wire onto the Tactile buttons and tie one side together - this will be th
 
 <h2> Step 2</h2>
 Solder all the button wire to a header in order - Common - Button 1 - Button 2 - Button 3.
-this will allow the header to plug into the earth - pin13 - pin12 - pin11 of the Arduino. Keeping things neat and tidy.
+
 <img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Making/Image00004%20smaller.jpg>
 
+This will allow the header to plug into the earth - pin13 - pin12 - pin11 of the Arduino. Keeping things neat and tidy.
+
+<img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Making/Image00005%20smaller.jpg>
+
+<h2> Step 3</h2>
+
+<h2> Soldering the joystick.</h2>
+
+The joystick I purchase had header pin pre-connected, this cause problem so I removed them and solder wires straight into the module.
+There are 5 connections Earth and VCC (5 volts) X out Y out and the internal switch of the Joystick. 
+
+<img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Making/Image00008%20smaller.jpg>
+
+After soldering the header onto the joystick wires, I used a pair of pliers to remove the platic spacer. This allowed me to bend the header to 90 degrees. There is little room to move with this design, so need to make everyting a tight as possible. As seen in the image below.
+
+<img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Making/Image00015%20smaller.jpg>
+
+<h2> Step 4</h2>
+
+<h2> Stuffing it all in</h2>
+
+I did say it was tight, but it does fit. Find a handfull of screw to attach the joystick module to the bottom plate. Be careful, because of the laminating direction of the print, if you use too larger screw it can break/separate the print layer. You also need to pull the joystick module as flat as you can. Be patient - find the rigth screw.
+
+<img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Making/Image00018%20smaller.jpg>
+
+<h2> Step 5</h2>
+
+<h2> Sticking it down</h2>
+
+I can't say I am a fan of the hot glue gun - overrated in my opinion - but for this case, it works a treat.
+
+Organise your wiring and get everything in the right place before you get glue rage.
+I started with the middle button and worked my way round. 
+
+<img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Making/Image00020%20smaller.jpg>
+<img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Making/Image00021%20smaller.jpg>
+
+A bit more glue to hold the wires in place
+
+<img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Making/Image00022%20smaller.jpg>
+
+Now stand back - tend to your burns from the glue gun - and see what you have created.
+
+Behold:
+
+<img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Making/Image00023%20smaller.jpg>
+
+<h2> Step 6</h2>
+
+<h2> Puting the lid on</h2>
+
+I did have to shave the lip on the base so the top would sit properly. Once the unit is programmed and working I will hot glue a cable in possition and the lid closed. This is what I like about Hot Glue - the ability to get things apart again.
+
+<img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Making/Image00025%20smaller.jpg>
