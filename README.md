@@ -3,7 +3,7 @@ For-finite-hand-movement
 
 <img src="https://github.com/paulbardini/Assistive-Joystick---For-finite-hand-movement/blob/master/img/Making/Image00025%20smaller.jpg">
 
-<h1> THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.</h1>
+<h2> THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.</h2>
 
 PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOW ETHIC PROTOCOLS.
 
@@ -19,17 +19,19 @@ This minimises the fatigue with user.</b>
 
 <b>Arduino micro controller and stock (very accessible) joystick parts and switches where used for other to replicate the device</b>
 
-<h2>Links to - HOW TO MAKE THE ASSISTIVE JOYSTICK</h2>
+<h2>Links to - HOW TO MAKE THE ASSISTIVE JOYSTICK - THE HARDWARE</h2>
+
 https://github.com/paulbardini/Assistive-Joystick/blob/master/making/README.md
 
+<h2>Links to - HOW TO MAKE THE ASSISTIVE JOYSTICK - THE SOFTWARE</h2>
 
 
-THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
+<h3>THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.</h3>
 
-PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOW ETHIC PROTOCOLS.
-
-
-
+<h3>PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOW ETHIC PROTOCOLS.</h3>
+<br/>
+<br/>
+<br/>
 
 Research Description
 This research seeks to better understand the open source framework and how it can be incorporated within the creative arts field to further innovation.
