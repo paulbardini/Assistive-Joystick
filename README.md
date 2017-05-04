@@ -19,6 +19,10 @@ This minimises the fatigue with user.</b>
 
 <b>Arduino micro controller and stock (very accessible) joystick parts and switches where used for other to replicate the device</b>
 
+<h2>Links to - HOW TO MAKE THE ASSISTIVE JOYSTICK</h2>
+https://github.com/paulbardini/Assistive-Joystick/blob/master/making/README.md
+
+
 
 THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
 
