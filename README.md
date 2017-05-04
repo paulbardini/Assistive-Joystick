@@ -1,6 +1,5 @@
 ---
 layout: default
-
 ---
 
 # Assistive-Joystick---For-finite-hand-movement
