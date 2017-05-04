@@ -99,7 +99,7 @@ Behold:
 
 <h2> Step 6</h2>
 
-<h2> Puting the lid on</h2>
+<h2> Putting the lid on</h2>
 
 I did have to shave the lip on the base so the top would sit properly. Once the unit is programmed and working I will hot glue a cable in possition and the lid closed. This is what I like about Hot Glue - the ability to get things apart again.
 
