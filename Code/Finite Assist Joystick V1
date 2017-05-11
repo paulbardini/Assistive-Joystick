@@ -1,0 +1,96 @@
+
+/* 
+
+This is based on the program written by:
+ (As seen on Arduino.cc)
+ Tom Igoe
+ updated 28 Mar 2012
+ this code is in the public domain
+
+ Further code by Paul Bardini for the Finite Assisstive joystick
+ Github:
+ https://github.com/paulbardini/Assistive-Joystick
+ */
+ 
+// mouse Lib
+#include "Mouse.h" 
+
+// set pin numbers for switch
+const int mouseLEFT = 13;
+const int mouseRIGHT = 12;
+const int mouseMIDDLE = 11;
+const int joystickButton = 10;
+
+
+int responseDelay = 5; // delay between reading       
+int range = 12;       // sensitivity       
+int threshold = range / 4; // sensitivity    
+int center = range / 2;      //  centering of joystick - stop movement
+
+
+void setup() {
+
+  Mouse.begin(); // start mouse library
+  
+  pinMode(mouseLEFT,INPUT_PULLUP); // pull up for all input buttons - read low
+  pinMode(mouseRIGHT,INPUT_PULLUP);
+  pinMode(mouseMIDDLE,INPUT_PULLUP);
+  pinMode(joystickButton,INPUT_PULLUP);
+}
+
+void loop() {
+  
+  int xReading = readAxis(A0); // take reading - add a - to invert control (default pull back to go down - forward to go up)
+  int yReading = -readAxis(A1); // take y reading and inverse - physical direction of joystick is upside down so needs to be reverse
+
+  Mouse.move(xReading, yReading, 0); // move cursor
+  
+  // Middle button LEFT CLICK
+  if (digitalRead(mouseMIDDLE) == LOW) {
+    // if the mouse is not pressed, press it:
+    if (!Mouse.isPressed(MOUSE_LEFT)) {
+      Mouse.press(MOUSE_LEFT);
+    }
+  }
+  else {
+    // if the mouse is pressed, release it:
+    if (Mouse.isPressed(MOUSE_LEFT)) {
+      Mouse.release(MOUSE_LEFT);
+    }
+  }
+
+  // outside buttons RIGHT CLICK
+
+  if (digitalRead(mouseLEFT) == LOW || digitalRead(mouseRIGHT) == LOW ) {
+    // if the mouse is not pressed, press it:
+    if (!Mouse.isPressed(MOUSE_RIGHT)) {
+      Mouse.press(MOUSE_RIGHT);
+    }
+  }
+  else {
+    // if the mouse is pressed, release it:
+    if (Mouse.isPressed(MOUSE_RIGHT)) {
+      Mouse.release(MOUSE_RIGHT);
+    }
+  }
+  
+  delay(responseDelay);
+}
+
+
+
+int readAxis(int thisAxis) {
+  // read the analog input:
+  int reading = analogRead(thisAxis);
+
+  // map the reading from the analog input range to the output range:
+  reading = map(reading, 0, 1023, 0, range);
+  
+  int distance = reading - center;
+
+  if (abs(distance) < threshold) {
+    distance = 0;
+  }
+
+  return distance;
+}
