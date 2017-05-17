@@ -108,3 +108,8 @@ Behold:
 I did have to shave the lip on the base so the top would sit properly. Once the unit is programmed and working I will hot glue a cable in possition and the lid closed. This is what I like about Hot Glue - the ability to get things apart again.
 
 <img src=https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Making/Image00025%20smaller.jpg>
+
+Great - so now that it is mostly together - there are a few tweeks to get things works.
+Jump to this link to see how to calibrate the button contact.
+
+-LINK
