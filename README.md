@@ -1,6 +1,12 @@
 # Assistive-Joystick 
 For-finite-hand-movement
 
+```javascript
+function test() {
+ console.log("Please read Ethics section");
+}
+```
+
 <img src="https://github.com/paulbardini/Assistive-Joystick---For-finite-hand-movement/blob/master/img/Making/Image00025%20smaller.jpg">
 
 <h2> THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.</h2>
