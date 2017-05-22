@@ -20,6 +20,9 @@ Also the side button are facilitated by squeezing the device.</b>
 ><b>A new finger rest was designed to replace the existing joystick knob, allowing the two or three fingers to move the joystick. 
 This minimises the fatigue with user.</b>
 >
+>### Link to - IMAGES OF USE
+>https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Functionality/Use.md
+>
 ><b>Arduino micro controller and stock (very accessible) joystick parts and switches where used for other to replicate the device</b>
 > ### Links to - HOW TO MAKE THE ASSISTIVE JOYSTICK - THE HARDWARE
 > https://github.com/paulbardini/Assistive-Joystick/blob/master/making/README.md
