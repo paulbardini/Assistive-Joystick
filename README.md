@@ -1,46 +1,36 @@
 # Assistive-Joystick 
 For-finite-hand-movement
 
-```javascript
-function test() {
- console.log("Please read Ethics section");
-}
-```
 
 <img src="https://github.com/paulbardini/Assistive-Joystick---For-finite-hand-movement/blob/master/img/Making/Image00025%20smaller.jpg">
 
-<h2> THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.</h2>
+###### THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
 
-PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOW ETHIC PROTOCOLS.
+###### PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOW ETHIC PROTOCOLS.
 
 
-<b>This device was created for a person with Guillian-Barre syndrome - causing nervous system inflammation and temporary paralysis. 
+><b>This device was created for a person with Guillian-Barre syndrome - causing nervous system inflammation and temporary paralysis. 
 As they where being rehabilitated, this device could allow them to interact with a computer.</b>
 
-<b>The large button on the back of the device allows the user to use the palm for the mouse click. 
+><b>The large button on the back of the device allows the user to use the palm for the mouse click. 
 Also the side button are facilitated by squeezing the device.</b>
 
-<b>A new finger rest was designed to replace the existing joystick knob, allowing the two or three fingers to move the joystick. 
+><b>A new finger rest was designed to replace the existing joystick knob, allowing the two or three fingers to move the joystick. 
 This minimises the fatigue with user.</b>
 
-<b>Arduino micro controller and stock (very accessible) joystick parts and switches where used for other to replicate the device</b>
+><b>Arduino micro controller and stock (very accessible) joystick parts and switches where used for other to replicate the device</b>
 
-<h2>Links to - HOW TO MAKE THE ASSISTIVE JOYSTICK - THE HARDWARE</h2>
+> ### Links to - HOW TO MAKE THE ASSISTIVE JOYSTICK - THE HARDWARE
 
-https://github.com/paulbardini/Assistive-Joystick/blob/master/making/README.md
+> https://github.com/paulbardini/Assistive-Joystick/blob/master/making/README.md
 
-<h2>Links to - HOW TO MAKE THE ASSISTIVE JOYSTICK - THE SOFTWARE</h2>
+> ### Links to - HOW TO MAKE THE ASSISTIVE JOYSTICK - THE SOFTWARE
 https://github.com/paulbardini/Assistive-Joystick/tree/master/Code
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-<h3>THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.</h3>
 
-<h3>PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOW ETHIC PROTOCOLS.</h3>
+> ### THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
+
+> ### PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOW ETHIC PROTOCOLS.
 <br/>
 <br/>
 <br/>
