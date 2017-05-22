@@ -13,7 +13,7 @@ For-finite-hand-movement
 During rehabilitated, this device was design to assisst them to interact with a computer.</b>
 >
 >### Link to - RESEARCH AND OBSERVATION
->
+>https://github.com/paulbardini/Assistive-Joystick/blob/master/Research/Design%20Intent.md
 >
 ><b>The large button on the back of the device allows the user to use the palm for the mouse click. 
 Also the side button are facilitated by squeezing the device.</b>
