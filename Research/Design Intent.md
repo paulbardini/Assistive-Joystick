@@ -3,8 +3,10 @@ This project was developed to help a friend rehabitiate from a autoimmune condit
 This project was created within an open source ideology, whereby, all the informatuion to produce this device, would be share for anyone else to use, create modify.
 
 Through research, it was found that the development of such product would usual fall outside the effective time the product would be requires. In other words, by the time the necessary research, development, concepts, prototype and creation occurs the patient, in this case, had already been rehabilitated.
-This lends to question whether or not products should be devloped in the first place. Well, to answert that question, we need to ask WHO ELSE could benifit from the idea.
+This lends to question whether or not products should be devloped in the first place. Well, to answer that question, we need to ask WHO ELSE could benifit from the idea.
 
 The following are images of prototyping - with foam etc - to understand what form the assistive joystick would need to be.
 
-![GitHub Logo](/img/Research/Image00001%20smaller.jpg)
+![](/img/Research/Image00001%20smaller.jpg)
+
+![](img/Research/Image00002%20smaller.jpg)
