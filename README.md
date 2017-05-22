@@ -1,7 +1,7 @@
 # Assistive-Joystick 
 For-finite-hand-movement
 
-!(/img/header-image.jpg)
+![](/img/header-image.jpg)
 
 ###### THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
 
