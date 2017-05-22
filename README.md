@@ -9,8 +9,8 @@ For-finite-hand-movement
 ###### PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOW ETHIC PROTOCOLS.
 
 
-><b>This device was created for a person with Guillian-Barre syndrome(https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/guillain-barre-syndrome) - causing nervous system inflammation and temporary paralysis. 
-As they where being rehabilitated, this device could allow them to interact with a computer.</b>
+><b>This device was created for a person with Guillian-Barre syndrome (https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/guillain-barre-syndrome) - causing nervous system inflammation and temporary paralysis. 
+During rehabilitated, this device was design to assisst them to interact with a computer.</b>
 ><b>The large button on the back of the device allows the user to use the palm for the mouse click. 
 Also the side button are facilitated by squeezing the device.</b>
 ><b>A new finger rest was designed to replace the existing joystick knob, allowing the two or three fingers to move the joystick. 
