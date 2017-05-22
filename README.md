@@ -9,23 +9,17 @@ For-finite-hand-movement
 ###### PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOW ETHIC PROTOCOLS.
 
 
-><b>This device was created for a person with Guillian-Barre syndrome - causing nervous system inflammation and temporary paralysis. 
+><b>This device was created for a person with Guillian-Barre syndrome(https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/guillain-barre-syndrome) - causing nervous system inflammation and temporary paralysis. 
 As they where being rehabilitated, this device could allow them to interact with a computer.</b>
-
 ><b>The large button on the back of the device allows the user to use the palm for the mouse click. 
 Also the side button are facilitated by squeezing the device.</b>
-
 ><b>A new finger rest was designed to replace the existing joystick knob, allowing the two or three fingers to move the joystick. 
 This minimises the fatigue with user.</b>
-
 ><b>Arduino micro controller and stock (very accessible) joystick parts and switches where used for other to replicate the device</b>
-
 > ### Links to - HOW TO MAKE THE ASSISTIVE JOYSTICK - THE HARDWARE
-
 > https://github.com/paulbardini/Assistive-Joystick/blob/master/making/README.md
-
 > ### Links to - HOW TO MAKE THE ASSISTIVE JOYSTICK - THE SOFTWARE
-https://github.com/paulbardini/Assistive-Joystick/tree/master/Code
+> https://github.com/paulbardini/Assistive-Joystick/tree/master/Code
 
 
 > ### THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
