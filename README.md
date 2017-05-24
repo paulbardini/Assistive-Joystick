@@ -9,7 +9,7 @@ For-finite-hand-movement
 
 
 ><b>This device was created for a person with Guillian-Barre syndrome (https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/guillain-barre-syndrome) - causing nervous system inflammation and temporary paralysis. 
-During rehabilitated, this device was design to assisst them to interact with a computer.</b>
+During rehabilitated, this device was designed to assisst them to interact with a computer.</b>
 >
 >### Link to - RESEARCH AND OBSERVATION
 >https://github.com/paulbardini/Assistive-Joystick/blob/master/Research/Design%20Intent.md
