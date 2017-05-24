@@ -9,12 +9,12 @@ For-finite-hand-movement
 
 
 ><b>This device was created for a person with Guillian-Barre syndrome (https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/guillain-barre-syndrome) - causing nervous system inflammation and temporary paralysis. 
-During rehabilitated, this device was designed to assisst them to interact with a computer.</b>
+During rehabilitated, this device was designed to assist them to interact with a computer.</b>
 >
 >### Link to - RESEARCH AND OBSERVATION
 >https://github.com/paulbardini/Assistive-Joystick/blob/master/Research/Design%20Intent.md
 >
-><b>The large button on the back of the device allows the user to use the palm for the mouse click. 
+><b>The large button on the back of the device allows the user to use their palm for the mouse click. 
 Also the side button are facilitated by squeezing the device.</b>
 ><b>A new finger rest was designed to replace the existing joystick knob, allowing the two or three fingers to move the joystick. 
 This minimises the fatigue with user.</b>
