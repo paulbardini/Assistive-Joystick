@@ -1,6 +1,7 @@
+
 This project was developed to help a friend rehabitiate from a autoimmune condition Guillain-Barré syndrome (https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/guillain-barre-syndrome)
 
-This project was created within an open source ideology, whereby, all the information to produce this device, would be shared for anyone to use, create and modify.
+The project is created within an open source ideology, whereby, all the information to produce this device, is shared for anyone to use, create and modify.
 
 Through research, it was found that the development of such product would usual fall outside the effective time the product would be requires. In other words, by the time the necessary research, development, concepts, prototype and creation occurs the patient, in this case, had already been rehabilitated.
 
