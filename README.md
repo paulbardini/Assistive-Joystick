@@ -14,16 +14,8 @@
 
 ![](/img/header-image.jpg)
 
-###### THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
-
-###### PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOWING ETHIC PROTOCOLS.
-
-
-><b>This device was created for a person with Guillian-Barre syndrome (https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/guillain-barre-syndrome) - causing nervous system inflammation and temporary paralysis. 
-During rehabilitated, this device was designed to assist them to interact with a computer.</b>
->
 >### Link to - RESEARCH AND OBSERVATION
->https://github.com/paulbardini/Assistive-Joystick/blob/master/Research/Design%20Intent.md
+>https://github.com/paulbardini/Assistive-Joystick/blob/master/Research/Design.md
 >
 ><b>The large button on the back of the device allows the user to use their palm for the mouse click. 
 Also the side buttons are facilitated by squeezing the device.</b>
@@ -39,6 +31,7 @@ This minimises the fatigue of the user.</b>
 > ### Links to - HOW TO MAKE THE ASSISTIVE JOYSTICK - THE SOFTWARE
 > https://github.com/paulbardini/Assistive-Joystick/tree/master/Code
 
+***
 
 ###### THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
 ###### PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOW ETHIC PROTOCOLS.
