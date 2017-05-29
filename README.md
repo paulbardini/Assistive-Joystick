@@ -14,8 +14,7 @@
 
 ![](/img/header-image.jpg)
 
->### RESEARCH AND OBSERVATION
->https://github.com/paulbardini/Assistive-Joystick/blob/master/Research/Design.md
+>### [RESEARCH AND OBSERVATION}(https://github.com/paulbardini/Assistive-Joystick/blob/master/Research/Design.md)
 >
 ><b>The large button on the back of the device allows the user to use their palm for the mouse click. 
 Also the side buttons are facilitated by squeezing the device.</b>
