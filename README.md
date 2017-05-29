@@ -23,17 +23,20 @@
 >
 ><b> To keep within an open acessible framework, electronic conponents and fabrication was kept within generic conponents and techniques. </b>
 ><b> Arduino micro controller and stock (very accessible) joystick parts and switches where used to allow for easy replication of the device </b>
+>
 ><b> All CAD source files have been included [link](/CAD%20files).</b>
 ><b> Please fork this design and/or push changes that helps you and maybe others. </b>
 >### [HOW TO MAKE THE ASSISTIVE JOYSTICK - THE HARDWARE](https://github.com/paulbardini/Assistive-Joystick/blob/master/making/README.md)
 > 
 > ### [HOW TO MAKE THE ASSISTIVE JOYSTICK - THE SOFTWARE](https://github.com/paulbardini/Assistive-Joystick/tree/master/Code)
 > 
-
+>
+>
 ***
 
 #### THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
-#### PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT - PLEASE READ THE FOLLOW ETHIC PROTOCOLS.
+#### PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT  
+#### PLEASE READ THE FOLLOW ETHIC PROTOCOLS.
 
 ****
 
