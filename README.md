@@ -1,14 +1,14 @@
 # Assistive-Joystick for finite hand movement.
 
-### This joystick was created as an alternative computer mouse to help a sick family friend. 
+#### This joystick was created as an alternative computer mouse to help a sick family friend. 
 
-### After battling Guillian-Barre syndrome with a short-term period in induced coma, my friend’s rehabilitation required to re-learn basic hand movements and other physical activities which many of us take for granted.
+#### After battling Guillian-Barre syndrome with a short-term period in induced coma, my friend’s rehabilitation required to re-learn basic hand movements and other physical activities which many of us take for granted.
 
-### This joystick was designed to sit in the hand while lying in bed. The large button on top of the device reduces the amount of effort required to perform a mouse click, while the joystick creates a more controlled method of positioning the mouse cursor.
+#### This joystick was designed to sit in the hand while lying in bed. The large button on top of the device reduces the amount of effort required to perform a mouse click, while the joystick creates a more controlled method of positioning the mouse cursor.
 
-### Apart from helping out a friend, I want this project to be released to the community, within an open source ideology, in hope that this may help others in similar situation, or used in ways that are not intended here.
+#### Apart from helping out a friend, I want this project to be released to the community, within an open source ideology, in hope that this may help others in similar situation, or used in ways that are not intended here.
 
-### Please – take this idea and recreated it. Modify/redesign it to be used for an alternative reason.  With the help of an open community, this project could assist many people in need.
+#### Please – take this idea and recreated it. Modify/redesign it to be used for an alternative reason.  With the help of an open community, this project could assist many people in need.
 
 
 
@@ -23,7 +23,8 @@
 >
 ><b> To keep within an open acessible framework, electronic conponents and fabrication was kept within generic conponents and techniques. </b>
 ><b> Arduino micro controller and stock (very accessible) joystick parts and switches where used to allow for easy replication of the device </b>
-><b> All CAD source files have been included [link](/CAD%20files). Please fork this design and/or push changes that helps you and maybe others. </b>
+><b> All CAD source files have been included [link](/CAD%20files).</b>
+><b> Please fork this design and/or push changes that helps you and maybe others. </b>
 >### [HOW TO MAKE THE ASSISTIVE JOYSTICK - THE HARDWARE](https://github.com/paulbardini/Assistive-Joystick/blob/master/making/README.md)
 > 
 > ### [HOW TO MAKE THE ASSISTIVE JOYSTICK - THE SOFTWARE](https://github.com/paulbardini/Assistive-Joystick/tree/master/Code)
