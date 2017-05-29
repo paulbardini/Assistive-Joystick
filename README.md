@@ -1,14 +1,14 @@
 # Assistive-Joystick for finite hand movement.
 
-###This joystick was created as an alternative computer mouse to help a sick family friend. 
+### This joystick was created as an alternative computer mouse to help a sick family friend. 
 
-###After battling Guillian-Barre syndrome with a short-term period in induced coma, my friend’s rehabilitation required to re-learn basic hand movements and other physical activities which many of us take for granted.
+### After battling Guillian-Barre syndrome with a short-term period in induced coma, my friend’s rehabilitation required to re-learn basic hand movements and other physical activities which many of us take for granted.
 
-###This joystick was designed to sit in the hand while lying in bed. The large button on top of the device reduces the amount of effort required to perform a mouse click, while the joystick creates a more function method of positioning the mouse cursor.
+### This joystick was designed to sit in the hand while lying in bed. The large button on top of the device reduces the amount of effort required to perform a mouse click, while the joystick creates a more function method of positioning the mouse cursor.
 
-###Apart from helping out a friend, I want this project to be released to the community, within an open source ideology. I hope that this may be helpful for others in similar situation, or could be used in ways that are not intended here.
+### Apart from helping out a friend, I want this project to be released to the community, within an open source ideology. I hope that this may be helpful for others in similar situation, or could be used in ways that are not intended here.
 
-###Please – take this idea and recreated it. Modify/redesign it to be used for an alternative reason.  With the help of an open community, this project could assist many people in need.
+### Please – take this idea and recreated it. Modify/redesign it to be used for an alternative reason.  With the help of an open community, this project could assist many people in need.
 
 
 
