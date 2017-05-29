@@ -1,5 +1,5 @@
 # Assistive-Joystick for finite hand movement.
-[google](http//google.com/)
+
 ### This joystick was created as an alternative computer mouse to help a sick family friend. 
 
 ### After battling Guillian-Barre syndrome with a short-term period in induced coma, my friend’s rehabilitation required to re-learn basic hand movements and other physical activities which many of us take for granted.
@@ -22,14 +22,13 @@ Also the side buttons are facilitated by squeezing the device.</b>
 ><b>A new finger rest was designed to replace the existing joystick knob, allowing the two or three fingers to move the joystick. 
 This minimises the fatigue of the user.</b>
 >
->### IMAGES OF USE
->https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Functionality/Use.md
+>### [IMAGES OF USE](https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Functionality/Use.md)
 >
 ><b>Arduino micro controller and stock (very accessible) joystick parts and switches where used to allow for easy replication of the device</b>
-> ### HOW TO MAKE THE ASSISTIVE JOYSTICK - THE HARDWARE
-> https://github.com/paulbardini/Assistive-Joystick/blob/master/making/README.md
-> ### HOW TO MAKE THE ASSISTIVE JOYSTICK - THE SOFTWARE
-> https://github.com/paulbardini/Assistive-Joystick/tree/master/Code
+>### [HOW TO MAKE THE ASSISTIVE JOYSTICK - THE HARDWARE](https://github.com/paulbardini/Assistive-Joystick/blob/master/making/README.md)
+> 
+> ### [HOW TO MAKE THE ASSISTIVE JOYSTICK - THE SOFTWARE](https://github.com/paulbardini/Assistive-Joystick/tree/master/Code)
+> 
 
 ***
 
