@@ -14,17 +14,15 @@
 
 ![](/img/header-image.jpg)
 >
-> This project was created by collaborating with the family member. See some of the research photos and discussions.
+><b> This project was created by collaborating with the family member. See some of the research photos and discussions.</b>
 >### [RESEARCH AND OBSERVATION](https://github.com/paulbardini/Assistive-Joystick/blob/master/Research/Design.md)
 >
-><b>The large button on the back of the device allows the user to use their palm for the mouse click. 
-Also the side buttons are facilitated by squeezing the device.</b>
-><b>A new finger rest was designed to replace the existing joystick knob, allowing the two or three fingers to move the joystick. 
-This minimises the fatigue of the user.</b>
->
+><b> The large button on the back of the device allows the user to use their palm for the mouse click. The side buttons function by squeezing the device. </b>
+><b> A new finger rest was designed to replace the existing joystick knob, allowing the two or three fingers to move the joystick. </b>
 >### [IMAGES OF USE](https://github.com/paulbardini/Assistive-Joystick/blob/master/img/Functionality/Use.md)
 >
-><b>Arduino micro controller and stock (very accessible) joystick parts and switches where used to allow for easy replication of the device</b>
+><b> To keep within an open acessible framework, electronic conponents and fabrication was kept within generic conponents and techniques. </b>
+><b> Arduino micro controller and stock (very accessible) joystick parts and switches where used to allow for easy replication of the device </b>
 >### [HOW TO MAKE THE ASSISTIVE JOYSTICK - THE HARDWARE](https://github.com/paulbardini/Assistive-Joystick/blob/master/making/README.md)
 > 
 > ### [HOW TO MAKE THE ASSISTIVE JOYSTICK - THE SOFTWARE](https://github.com/paulbardini/Assistive-Joystick/tree/master/Code)
