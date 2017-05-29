@@ -1,5 +1,11 @@
-# Assistive-Joystick 
-For-finite-hand-movement
+# Assistive-Joystick for finite hand movement.
+This joystick was created as an alternative computer mouse to help a sick family friend. 
+After battling with Guillian-Barre syndrome and a short-term period in an induced coma, my friend’s rehabilitation required the re-learning basic hand movement and other physical activities which many of us take for granted.
+This joystick was designed to sit in their hand while lying in bed. The large button on top of the device reduced the amount of effort it takes to perform a mouse click, while the joystick creates a more function method of positioning the mouse cursor.
+Apart from assisting my friend, I wish this project to be released to the community, in an open source ideology. I hope that this may be helpful for other in the same situation, or could be used in ways that are not intended here.
+Please – take this idea and recreated it. Modify/redesign it to be used for an alternative reason.  With the help of an open community, this project could assist many people in need.
+
+
 
 ![](/img/header-image.jpg)
 
